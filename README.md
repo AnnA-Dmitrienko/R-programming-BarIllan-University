@@ -1,1 +1,2 @@
-# R-programming-BarIllan-University-
+# R-programming-BarIllan-University
+The exercises from the course 
