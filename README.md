@@ -1,2 +1,3 @@
 # R-programming-BarIllan-University
-The exercises from the course 
+
+The solutions to data analytics exercises from the course 
